@@ -1,5 +1,6 @@
 appName: data-platform-poc
 snowApmId: APM121002
+clusterName: k8smpi001
 clusterEnv: "dev"
 gitlabProjIds:
 - 123455
